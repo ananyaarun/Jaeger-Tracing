@@ -1,16 +1,28 @@
-[![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![OpenTracing 1.0 Enabled][ot-img]][ot-url]
+# jaeger client examples in C++
+This repo has example projects as a proof of concept for tracing of modules written in C++ using jaeger. In 
+order to instrument the program with jaeger and run it, we need the various jaeger dependencies made available.
+We also need the jaeger backend setup and running to see the traces on the jaeger UI.
 
-# jaeger-client-cpp
-C++ OpenTracing binding for [Jaeger](https://www.jaegertracing.io/)
+## The jaeger backend
 
-## Contributing
+We setup and run the all-in-one jaeger docker image (https://www.jaegertracing.io/docs/1.6/getting-started/)
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+```bash
+  docker run -d --name jaeger \
+  -e COLLECTOR_ZIPKIN_HTTP_PORT=9411 \
+  -p 5775:5775/udp \
+  -p 6831:6831/udp \
+  -p 6832:6832/udp \
+  -p 5778:5778 \
+  -p 16686:16686 \
+  -p 14268:14268 \
+  -p 9411:9411 \
+  jaegertracing/all-in-one:1.6
+```
+This makes available the jaeger backend on standard ports. In particular the jaeger UI is availbale at https://localhost:16686
 
-## Building
-
-jaeger-client-cpp is built using CMake. It will automatically download
-needed dependencies using [Hunter](https://docs.hunter.sh/en/latest/).
+## Quicksort
+This program traces the quicksort algorithm and its helper functions like partitioning the array and swapping 
 
 To build:
 
@@ -20,46 +32,42 @@ To build:
     cmake ..
     make
 ```
-
-After building, the [example](./examples/App.cpp) program can be run
+After building, the [quicksort](./examples/App.cpp) program can be run
 with:
 
 ```bash
     ./app ../examples/config.yml
 ```
+The traces show 3 spans: quicksort, partition, and swap
 
-To run tests:
+## Socket programming
+This program implements a client and server and interprocess communication using sockets. 
+Since this is a distributed program, we need to implement distributed tracing. 
+This is done using Inject and Extract operations which transmit the span context across process boundaries.
 
-```bash
-    make test
-```
-
-To install the library:
-
-```bash
-    make install
-```
-
-### Generated files
-
-This project uses Apache Thrift for wire-format protocol support code
-generation. It currently requires Thrift 0.11.0.
-
-The code can be re-generated with
+To build:
 
 ```bash
-    $ git submodule update --init
-    $ find idl/thrift/ -type f -name \*.thrift -exec thrift -gen cpp -out src/jaegertracing/thrift-gen {} \;
-    $ git apply scripts/thrift-gen.patch
+    mkdir build
+    cd build
+    cmake ..
+    make
+```
+The Server and Client need to be started on different terminals. The Server needs to be started before the Client.
+
+After building, the [Server](./examples/Server.cpp) program can be run
+with:
+
+```bash
+    ./server ../examples/config.yml
 ```
 
-## License
+The [Client](./examples/Client.cpp) program can be run
+with:
 
-[Apache 2.0 License](./LICENSE).
+```bash
+    ./client
+```
 
-[ci-img]: https://travis-ci.org/jaegertracing/jaeger-client-cpp.svg?branch=master
-[ci]: https://travis-ci.org/jaegertracing/jaeger-client-cpp
-[cov-img]: https://codecov.io/gh/jaegertracing/jaeger-client-cpp/branch/master/graph/badge.svg
-[cov]: https://codecov.io/gh/jaegertracing/jaeger-client-cpp
-[ot-img]: https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg
-[ot-url]: http://opentracing.io
+
+
