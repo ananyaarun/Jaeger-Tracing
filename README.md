@@ -19,7 +19,7 @@ We setup and run the all-in-one jaeger docker image (https://www.jaegertracing.i
   -p 9411:9411 \
   jaegertracing/all-in-one:1.6
 ```
-This makes available the jaeger backend on standard ports. In particular the jaeger UI is availbale at https://localhost:16686
+This makes available the jaeger backend on standard ports. In particular the jaeger UI is available at https://localhost:16686
 
 ## Quicksort
 This program traces the quicksort algorithm and its helper functions like partitioning the array and swapping 
