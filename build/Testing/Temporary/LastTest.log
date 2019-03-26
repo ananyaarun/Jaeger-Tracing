@@ -1,0 +1,260 @@
+Start testing: Mar 21 00:55 IST
+----------------------------------------------------------
+1/2 Testing: UnitTest
+1/2 Test: UnitTest
+Command: "/home/a/Desktop/jaeger-client-cpp-master/build/UnitTest"
+Directory: /home/a/Desktop/jaeger-client-cpp-master/build
+"UnitTest" start time: Mar 21 00:55 IST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+[==========] Running 71 tests from 26 test cases.
+[----------] Global test environment set-up.
+[----------] 3 tests from Config
+[ RUN      ] Config.testParse
+[       OK ] Config.testParse (6 ms)
+[ RUN      ] Config.testDefaultSamplingProbability
+[       OK ] Config.testDefaultSamplingProbability (0 ms)
+[ RUN      ] Config.testZeroSamplingParam
+[       OK ] Config.testZeroSamplingParam (0 ms)
+[----------] 3 tests from Config (6 ms total)
+
+[----------] 1 test from Reference
+[ RUN      ] Reference.testThriftConversion
+[       OK ] Reference.testThriftConversion (18 ms)
+[----------] 1 test from Reference (18 ms total)
+
+[----------] 4 tests from SpanContext
+[ RUN      ] SpanContext.testFromStream
+[       OK ] SpanContext.testFromStream (0 ms)
+[ RUN      ] SpanContext.testFormatting
+[       OK ] SpanContext.testFormatting (0 ms)
+[ RUN      ] SpanContext.testBaggage
+[       OK ] SpanContext.testBaggage (0 ms)
+[ RUN      ] SpanContext.testDebug
+[       OK ] SpanContext.testDebug (0 ms)
+[----------] 4 tests from SpanContext (0 ms total)
+
+[----------] 1 test from Span
+[ RUN      ] Span.testThriftConversion
+[       OK ] Span.testThriftConversion (0 ms)
+[----------] 1 test from Span (0 ms total)
+
+[----------] 1 test from Tag
+[ RUN      ] Tag.testThriftConversion
+[       OK ] Tag.testThriftConversion (0 ms)
+[----------] 1 test from Tag (0 ms total)
+
+[----------] 1 test from TraceID
+[ RUN      ] TraceID.testPrint
+[       OK ] TraceID.testPrint (0 ms)
+[----------] 1 test from TraceID (0 ms total)
+
+[----------] 2 tests from TracerFactory
+[ RUN      ] TracerFactory.testInvalidConfig
+[       OK ] TracerFactory.testInvalidConfig (1 ms)
+[ RUN      ] TracerFactory.testValidConfig
+[       OK ] TracerFactory.testValidConfig (1 ms)
+[----------] 2 tests from TracerFactory (2 ms total)
+
+[----------] 4 tests from Tracer
+[ RUN      ] Tracer.testTracer
+[       OK ] Tracer.testTracer (2 ms)
+[ RUN      ] Tracer.testConstructorFailure
+[       OK ] Tracer.testConstructorFailure (0 ms)
+[ RUN      ] Tracer.testDisabledConfig
+[       OK ] Tracer.testDisabledConfig (0 ms)
+[ RUN      ] Tracer.testPropagation
+[       OK ] Tracer.testPropagation (1 ms)
+[----------] 4 tests from Tracer (3 ms total)
+
+[----------] 2 tests from UDPTransport
+[ RUN      ] UDPTransport.testManyMessages
+[       OK ] UDPTransport.testManyMessages (26 ms)
+[ RUN      ] UDPTransport.testExceptions
+[       OK ] UDPTransport.testExceptions (1 ms)
+[----------] 2 tests from UDPTransport (27 ms total)
+
+[----------] 3 tests from Baggage
+[ RUN      ] Baggage.restrictionManagerTest
+[       OK ] Baggage.restrictionManagerTest (0 ms)
+[ RUN      ] Baggage.testRemoteRestrictionManagerDefaults
+[       OK ] Baggage.testRemoteRestrictionManagerDefaults (21 ms)
+[ RUN      ] Baggage.testRemoteRestrictionManagerFunctionality
+[       OK ] Baggage.testRemoteRestrictionManagerFunctionality (201 ms)
+[----------] 3 tests from Baggage (222 ms total)
+
+[----------] 4 tests from MetricsTest
+[ RUN      ] MetricsTest.testCounter
+[       OK ] MetricsTest.testCounter (0 ms)
+[ RUN      ] MetricsTest.testGauge
+[       OK ] MetricsTest.testGauge (0 ms)
+[ RUN      ] MetricsTest.testTimer
+[       OK ] MetricsTest.testTimer (0 ms)
+[ RUN      ] MetricsTest.testReset
+[       OK ] MetricsTest.testReset (0 ms)
+[----------] 4 tests from MetricsTest (0 ms total)
+
+[----------] 1 test from NullStatsFactory
+[ RUN      ] NullStatsFactory.test
+[       OK ] NullStatsFactory.test (0 ms)
+[----------] 1 test from NullStatsFactory (0 ms total)
+
+[----------] 4 tests from IPAddress
+[ RUN      ] IPAddress.testParseFail
+[       OK ] IPAddress.testParseFail (1 ms)
+[ RUN      ] IPAddress.testAuthority
+[       OK ] IPAddress.testAuthority (0 ms)
+[ RUN      ] IPAddress.testIPv6
+[       OK ] IPAddress.testIPv6 (0 ms)
+[ RUN      ] IPAddress.testResolveAddress
+[       OK ] IPAddress.testResolveAddress (0 ms)
+[----------] 4 tests from IPAddress (1 ms total)
+
+[----------] 6 tests from Socket
+[ RUN      ] Socket.testFailOpen
+[       OK ] Socket.testFailOpen (0 ms)
+[ RUN      ] Socket.testFailBind
+[       OK ] Socket.testFailBind (0 ms)
+[ RUN      ] Socket.testFailConnect
+[       OK ] Socket.testFailConnect (0 ms)
+[ RUN      ] Socket.testFailConnectURI
+[       OK ] Socket.testFailConnectURI (1 ms)
+[ RUN      ] Socket.testFailListen
+[       OK ] Socket.testFailListen (0 ms)
+[ RUN      ] Socket.testFailAccept
+[       OK ] Socket.testFailAccept (0 ms)
+[----------] 6 tests from Socket (1 ms total)
+
+[----------] 6 tests from URI
+[ RUN      ] URI.testMatch
+[       OK ] URI.testMatch (1 ms)
+[ RUN      ] URI.testAuthority
+[       OK ] URI.testAuthority (1 ms)
+[ RUN      ] URI.testPrint
+[       OK ] URI.testPrint (1 ms)
+[ RUN      ] URI.queryEscape
+[       OK ] URI.queryEscape (0 ms)
+[ RUN      ] URI.queryUnescape
+[       OK ] URI.queryUnescape (0 ms)
+[ RUN      ] URI.testParseQueryValues
+[       OK ] URI.testParseQueryValues (2 ms)
+[----------] 6 tests from URI (5 ms total)
+
+[----------] 2 tests from Header
+[ RUN      ] Header.readLine
+[       OK ] Header.readLine (0 ms)
+[ RUN      ] Header.readHeaders
+[       OK ] Header.readHeaders (0 ms)
+[----------] 2 tests from Header (0 ms total)
+
+[----------] 1 test from Method
+[ RUN      ] Method.testParse
+[       OK ] Method.testParse (0 ms)
+[----------] 1 test from Method (0 ms total)
+
+[----------] 1 test from Response
+[ RUN      ] Response.get
+[       OK ] Response.get (2 ms)
+[----------] 1 test from Response (2 ms total)
+
+[----------] 1 test from Propagator
+[ RUN      ] Propagator.testBinaryPropagation
+[       OK ] Propagator.testBinaryPropagation (0 ms)
+[----------] 1 test from Propagator (0 ms total)
+
+[----------] 5 tests from Reporter
+[ RUN      ] Reporter.testRemoteReporter
+[       OK ] Reporter.testRemoteReporter (164 ms)
+[ RUN      ] Reporter.testNullReporter
+[       OK ] Reporter.testNullReporter (0 ms)
+[ RUN      ] Reporter.testLoggingReporter
+[       OK ] Reporter.testLoggingReporter (0 ms)
+[ RUN      ] Reporter.testInMemoryReporter
+[       OK ] Reporter.testInMemoryReporter (0 ms)
+[ RUN      ] Reporter.testCompositeReporter
+[       OK ] Reporter.testCompositeReporter (0 ms)
+[----------] 5 tests from Reporter (164 ms total)
+
+[----------] 10 tests from Sampler
+[ RUN      ] Sampler.testSamplerTags
+[       OK ] Sampler.testSamplerTags (0 ms)
+[ RUN      ] Sampler.testProbabilisticSamplerErrors
+[       OK ] Sampler.testProbabilisticSamplerErrors (0 ms)
+[ RUN      ] Sampler.testProbabilisticSampler
+[       OK ] Sampler.testProbabilisticSampler (0 ms)
+[ RUN      ] Sampler.testProbabilisticSamplerPerformance
+Sampled: 12 rate=0.0012
+[       OK ] Sampler.testProbabilisticSamplerPerformance (5 ms)
+[ RUN      ] Sampler.testRateLimitingSampler
+[       OK ] Sampler.testRateLimitingSampler (0 ms)
+[ RUN      ] Sampler.testGuaranteedThroughputProbabilisticSamplerUpdate
+[       OK ] Sampler.testGuaranteedThroughputProbabilisticSamplerUpdate (0 ms)
+[ RUN      ] Sampler.testAdaptiveSampler
+[       OK ] Sampler.testAdaptiveSampler (0 ms)
+[ RUN      ] Sampler.testAdaptiveSamplerErrors
+[       OK ] Sampler.testAdaptiveSamplerErrors (0 ms)
+[ RUN      ] Sampler.testAdaptiveSamplerUpdate
+[       OK ] Sampler.testAdaptiveSamplerUpdate (0 ms)
+[ RUN      ] Sampler.testRemotelyControlledSampler
+[       OK ] Sampler.testRemotelyControlledSampler (1004 ms)
+[----------] 10 tests from Sampler (1009 ms total)
+
+[----------] 2 tests from MockAgent
+[ RUN      ] MockAgent.testSpanServer
+[       OK ] MockAgent.testSpanServer (7 ms)
+[ RUN      ] MockAgent.testSamplingManager
+[       OK ] MockAgent.testSamplingManager (11 ms)
+[----------] 2 tests from MockAgent (18 ms total)
+
+[----------] 1 test from TUDPTransport
+[ RUN      ] TUDPTransport.testUDPTransport
+[       OK ] TUDPTransport.testUDPTransport (0 ms)
+[----------] 1 test from TUDPTransport (0 ms total)
+
+[----------] 1 test from ErrorUtil
+[ RUN      ] ErrorUtil.test
+[       OK ] ErrorUtil.test (0 ms)
+[----------] 1 test from ErrorUtil (0 ms total)
+
+[----------] 2 tests from RateLimiter
+[ RUN      ] RateLimiter.testRateLimiter
+[       OK ] RateLimiter.testRateLimiter (0 ms)
+[ RUN      ] RateLimiter.testMaxBalance
+[       OK ] RateLimiter.testMaxBalance (0 ms)
+[----------] 2 tests from RateLimiter (0 ms total)
+
+[----------] 2 tests from UDPClient
+[ RUN      ] UDPClient.testZipkinMessage
+[       OK ] UDPClient.testZipkinMessage (0 ms)
+[ RUN      ] UDPClient.testBigMessage
+[       OK ] UDPClient.testBigMessage (0 ms)
+[----------] 2 tests from UDPClient (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 71 tests from 26 test cases ran. (1478 ms total)
+[  PASSED  ] 71 tests.
+<end of output>
+Test time =   1.50 sec
+----------------------------------------------------------
+Test Passed.
+"UnitTest" end time: Mar 21 00:55 IST
+"UnitTest" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/2 Testing: DynamicallyLoadTracerTest
+2/2 Test: DynamicallyLoadTracerTest
+Command: "/home/a/Desktop/jaeger-client-cpp-master/build/DynamicallyLoadTracerTest" "/home/a/Desktop/jaeger-client-cpp-master/build/libjaegertracing.so.0.5.0"
+Directory: /home/a/Desktop/jaeger-client-cpp-master/build
+"DynamicallyLoadTracerTest" start time: Mar 21 00:55 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DynamicallyLoadTracerTest" end time: Mar 21 00:55 IST
+"DynamicallyLoadTracerTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 21 00:55 IST

@@ -1,0 +1,1072 @@
+[
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/app.dir/examples/App.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/examples/App.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/examples/App.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -std=c++11 -o CMakeFiles/DynamicallyLoadTracerTest.dir/src/jaegertracing/DynamicallyLoadTracerTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/DynamicallyLoadTracerTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/DynamicallyLoadTracerTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Config.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Config.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Config.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/DynamicLoad.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/LogRecord.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Logging.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Reference.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Span.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Span.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Span.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/SpanContext.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Tag.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/TraceID.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Tracer.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/TracerFactory.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Transport.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Transport.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Transport.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/UDPTransport.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/UDPTransport.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/UDPTransport.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/BaggageSetter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RemoteRestrictionManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/Restriction.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RestrictionManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RestrictionsConfig.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Counter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Gauge.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/InMemoryStatsReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Metric.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Metrics.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullCounter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullGauge.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullStatsFactory.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullStatsReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullTimer.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsFactory.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsFactoryImpl.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Timer.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/IPAddress.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/Socket.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/URI.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Error.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Header.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Method.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Request.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Response.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/platform/Endian.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/platform/Hostname.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Extractor.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/HeadersConfig.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Injector.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Propagator.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/CompositeReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/Config.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/InMemoryReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/LoggingReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/NullReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/RemoteReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/Reporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/AdaptiveSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/Config.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/ConstSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/ProbabilisticSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RateLimitingSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RemoteSamplingJSON.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RemotelyControlledSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/Sampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/SamplingStatus.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Agent.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/AggregationValidator.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Collector.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Dependency.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/SamplingManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/ZipkinCollector.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/agent_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/agent_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/baggage_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/baggage_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/dependency_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/dependency_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/jaeger_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/jaeger_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/sampling_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/sampling_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/zipkincore_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/zipkincore_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/ErrorUtil.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/HexParsing.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/RateLimiter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/UDPClient.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/UDPClient.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/UDPClient.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/YAML.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/ConfigTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/ConfigTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/ConfigTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/ReferenceTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/ReferenceTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/ReferenceTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/SpanContextTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanContextTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanContextTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/SpanTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TagTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TagTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TagTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TraceIDTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TraceIDTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TraceIDTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TracerFactoryTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerFactoryTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerFactoryTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TracerTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/UDPTransportTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/UDPTransportTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/UDPTransportTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/baggage/BaggageTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/metrics/MetricsTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/MetricsTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/MetricsTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/metrics/NullStatsFactoryTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactoryTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactoryTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/IPAddressTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/IPAddressTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/IPAddressTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/SocketTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/SocketTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/SocketTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/URITest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/URITest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/URITest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/HeaderTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/HeaderTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/HeaderTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/MethodTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/MethodTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/MethodTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/ResponseTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/ResponseTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/ResponseTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/propagation/PropagatorTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/PropagatorTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/PropagatorTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/reporters/ReporterTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/ReporterTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/ReporterTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/samplers/SamplerTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplerTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplerTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/testutils/MockAgentTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgentTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgentTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/testutils/TUDPTransportTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransportTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransportTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/ErrorUtilTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtilTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtilTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/RateLimiterTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiterTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiterTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/UDPClientTest.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/UDPClientTest.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/UDPClientTest.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Config.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Config.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Config.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/DynamicLoad.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/LogRecord.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Logging.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Reference.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Span.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Span.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Span.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/SpanContext.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Tag.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/TraceID.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Tracer.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/TracerFactory.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Transport.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Transport.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/Transport.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/UDPTransport.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/UDPTransport.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/UDPTransport.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/BaggageSetter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RemoteRestrictionManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/Restriction.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RestrictionManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RestrictionsConfig.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Counter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Gauge.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/InMemoryStatsReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Metric.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Metrics.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullCounter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullGauge.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullStatsFactory.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullStatsReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullTimer.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsFactory.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsFactoryImpl.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Timer.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/IPAddress.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/Socket.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/URI.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Error.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Header.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Method.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Request.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Response.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/platform/Endian.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/platform/Hostname.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Extractor.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/HeadersConfig.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Injector.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Propagator.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/CompositeReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/Config.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/InMemoryReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/LoggingReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/NullReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/RemoteReporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/Reporter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/AdaptiveSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/Config.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/ConstSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/ProbabilisticSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RateLimitingSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RemoteSamplingJSON.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RemotelyControlledSampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/Sampler.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/SamplingStatus.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Agent.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/AggregationValidator.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Collector.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Dependency.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/SamplingManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/ZipkinCollector.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/agent_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/agent_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/baggage_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/baggage_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/dependency_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/dependency_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/jaeger_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/jaeger_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/sampling_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/sampling_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/zipkincore_constants.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/zipkincore_types.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/ErrorUtil.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/HexParsing.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/RateLimiter.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/UDPClient.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/UDPClient.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/UDPClient.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Djaegertracing_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/YAML.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/server.dir/examples/Server.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/examples/Server.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/examples/Server.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++   -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIE   -Wall -pedantic -std=c++11 -o CMakeFiles/client.dir/examples/Client.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/examples/Client.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/examples/Client.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Dtestutils_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/TUDPTransport.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransport.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransport.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Dtestutils_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/SamplingManager.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/SamplingManager.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/SamplingManager.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Dtestutils_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/MockAgent.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgent.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgent.cpp"
+},
+{
+  "directory": "/home/a/Desktop/jaeger-client-cpp-master/build",
+  "command": "/usr/bin/g++  -Dtestutils_EXPORTS -I/home/a/Desktop/jaeger-client-cpp-master/src -I/home/a/Desktop/jaeger-client-cpp-master/build/src -isystem /home/a/.hunter/_Base/2c5c6fc/ff5117c/92161a9/Install/include  -fPIC   -Wall -pedantic -std=c++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/TracerUtil.cpp.o -c /home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/TracerUtil.cpp",
+  "file": "/home/a/Desktop/jaeger-client-cpp-master/src/jaegertracing/testutils/TracerUtil.cpp"
+}
+]
