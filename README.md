@@ -40,8 +40,8 @@ with:
 ```
 The traces show 3 spans: quicksort, partition, and swap
 
-[Trace1]{trace/quicksort1.png}
-[Trace2]{trace/quicksort2.png}
+![Trace1](trace/quicksort1.png)
+![Trace2](trace/quicksort2.png)
 
 ## Socket programming
 This program implements a client and server and interprocess communication using sockets. 
