@@ -40,8 +40,10 @@ with:
 ```
 The traces show 3 spans: quicksort, partition, and swap
 
-![Trace1](trace/quicksort1.png)
-![Trace2](trace/quicksort2.png)
+![quicksort1](https://user-images.githubusercontent.com/32260628/55090750-a8195780-50d5-11e9-9fd3-e6d297059252.png)
+
+![quicksort2](https://user-images.githubusercontent.com/32260628/55090787-b8313700-50d5-11e9-9229-f24c5264a4e5.png)
+
 
 ## Socket programming
 This program implements a client and server and interprocess communication using sockets. 
@@ -71,6 +73,12 @@ with:
 ```bash
     ./client
 ```
+
+Some screenshots of traces seen
+
+![socket1](https://user-images.githubusercontent.com/32260628/55090825-cbdc9d80-50d5-11e9-8213-7603cfc9ab1b.png)
+
+![socket2](https://user-images.githubusercontent.com/32260628/55090847-d5660580-50d5-11e9-9a61-3c1f2a51a0de.png)
 
 
 
