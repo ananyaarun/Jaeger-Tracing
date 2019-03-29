@@ -1,4 +1,4 @@
-# jaeger client examples in C++
+# Jaeger client examples in C++
 This repo has example projects as a proof of concept for tracing of modules written in C++ using jaeger. In 
 order to instrument the program with jaeger and run it, we need the various jaeger dependencies made available.
 We also need the jaeger backend setup and running to see the traces on the jaeger UI.
