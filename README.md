@@ -85,4 +85,4 @@ Some screenshots of traces seen
 ![socket2](https://user-images.githubusercontent.com/32260628/55090847-d5660580-50d5-11e9-9a61-3c1f2a51a0de.png)
 
 
-
+NOTE : Building of the repository needs to be done just once after which Traces of both quicksort program and socket programming can be seen in Jaeger UI under sorting-service and socketservice respectively.
