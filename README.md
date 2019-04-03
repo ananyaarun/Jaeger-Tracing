@@ -3,6 +3,10 @@ This repo has example projects as a proof of concept for tracing of modules writ
 order to instrument the program with jaeger and run it, we need the various jaeger dependencies made available.
 We also need the jaeger backend setup and running to see the traces on the jaeger UI.
 
+A few examples I forked and built to visualize Traces can be found here:
+- [distributed-tracing-example](./distributed-tracing-example.md)
+- [Jaeger-client-cpp](./Jaeger-client-cpp.md)
+
 ## The jaeger backend
 
 We setup and run the all-in-one jaeger docker image (https://www.jaegertracing.io/docs/1.6/getting-started/)
