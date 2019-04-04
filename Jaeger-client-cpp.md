@@ -56,6 +56,6 @@ These were the traces obtained on Jaeger UI
 
 ![jaeger1](https://user-images.githubusercontent.com/32260628/55513833-4f712e00-5684-11e9-9e45-5a09599da116.png)
 
-On changing the trace function to take a parameter and generate multiple spans, we can visualise traces with more depth
+By changing the trace function to take a parameter we can generate and visualise multiple spans
 
 ![jaeger2](https://user-images.githubusercontent.com/32260628/55513927-80e9f980-5684-11e9-8a97-a868f2ae1a8a.jpeg)
